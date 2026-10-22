@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "bubble_display") (type "KiCad") (uri "${KIPRJMOD}/bubble_display.kicad_sym") (options "") (descr ""))
+)
